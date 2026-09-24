@@ -221,6 +221,7 @@ const server = http.createServer((req, res) => {
                 <span>Docker</span>
                 <span>Jenkins</span>
                 <span>AWS</span>
+                
                 <span>Kubernetes</span>
               </div>
             </div>
